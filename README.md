@@ -42,7 +42,7 @@ Untuk menjalankan bot ini kamu harus sudah menyiapkan ini:
 
 ## How to run?
 ```
-$ git clone https://github.com/prhnahmd/simplebot-wa
+$ git clone https://github.com/asliskena/simplebot-wa
 $ cd simplebot-wa
 $ npm install
 $ npm start
